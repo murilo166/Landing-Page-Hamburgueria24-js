@@ -4,7 +4,7 @@
 
 
 ## Linguagens Utilizadas
-para a criaçâo desse sistema utilizei Html,css e JavaScript.
+para a criaçâo dessa pagina utilizei Html,css e JavaScript.
 
 ## Como Utilizar?
 #1.Faça O dowload da pasta zip em code
